@@ -1,0 +1,3 @@
+[submodule "my projects/Add-to-cart-project/add-to-cart"]
+    path = my projects/Add-to-cart-project/add-to-cart
+    url = https://github.com/Robert2136/Add-To-Cart.git
